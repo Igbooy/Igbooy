@@ -1,5 +1,4 @@
-- 👋 Hi, I’m Igor
-- 
+- 👋 Hi, I’m Igor 
 - 🌱 I’m currently learning ...
 - 📫 How to reach me (11) 9 4246-0017
 
